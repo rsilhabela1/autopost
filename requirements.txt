@@ -1,0 +1,15 @@
+
+Flask==2.3.3
+requests==2.31.0
+schedule==1.2.0
+python-wordpress-xmlrpc==2.3
+python-dotenv==1.0.0
+beautifulsoup4==4.12.2
+Pillow==10.0.1
+beautifulsoup4
+lxml
+requests
+beautifulsoup4
+lxml
+python-dotenv
+python-dotenv
