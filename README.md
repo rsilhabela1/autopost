@@ -1,1 +1,1 @@
-# autopost
+# automator-app
